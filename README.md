@@ -15,6 +15,25 @@
 
 [rec-tab (1).webm](https://user-images.githubusercontent.com/77879772/185559769-a22aad33-c1f2-45ec-8c02-00def16e9b4e.webm)
 
+# Setup
+**API PROJECT SHOULD BE HOSTED IN DIFFERENT CMD OR ENVIRONMENT**
+**API PROJECT URL -- [Click Here](htps://github.com/dhvitOP/AnimeEZ-api)**
+1. You have to edit the config.js's api_url by your api url. If your hosting both project locally than there isn't any need to change api_url.
+```js
+module.exports = {
+  "api_url": "https://localhost:6969",
+  // Enter your api host's url or if hosting locally use https://localhost:6969
+  
+  "time_update": "200",
+  // Enter Seconds for updating recently added and popular list. For disabling it Enter disable
+  
+  "port": "8000", 
+    // Enter port for your website
+}
+```
+2. Make sure your api project is running properly.
+3. Create a new command prompt and go in the directory of this repository's code. After that enter `npm start` and your website is ready to run.
+
 
 
 # Notice 
