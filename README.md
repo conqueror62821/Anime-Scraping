@@ -17,7 +17,7 @@
 
 # Setup
 **API PROJECT SHOULD BE HOSTED IN DIFFERENT CMD OR ENVIRONMENT** <br>
-**API PROJECT URL -- [Click Here](htps://github.com/dhvitOP/AnimeEZ-api)** <br>
+**API PROJECT URL -- [Click Here](https://github.com/dhvitOP/AnimeEZ-api)** <br>
 1. You have to edit the config.js's api_url by your api url. If your hosting both project locally than there isn't any need to change api_url.
 ```js <br>
 module.exports = {
