@@ -1,6 +1,7 @@
 # ANIMEEZ NEW UI V2 IS HERE
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
-**Template Used -- https://github.com/codewithsadee/filmlane**
+**Template Used -- https://github.com/codewithsadee/filmlane** <br>
+**API PROJECT URL -- [Click Here](https://github.com/dhvitOP/AnimeEZ-api)** <br>
 # Features?
 --> Its lightweight (after the anime details are set in db XD) <br>
 --> Uses api project to lower the weight on machine <br>
@@ -21,8 +22,8 @@
 1. You have to edit the config.js's api_url by your api url. If your hosting both project locally than there isn't any need to change api_url. <br>
 ```js
 module.exports = {
-  "api_url": "https://localhost:6969",
-  // Enter your api host's url or if hosting locally use https://localhost:6969
+  "api_url": "http://localhost:6969",
+  // Enter your api host's url or if hosting locally use http://localhost:6969
   
   "time_update": "200",
   // Enter Seconds for updating recently added and popular list. For disabling it Enter disable
