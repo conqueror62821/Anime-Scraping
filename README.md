@@ -9,19 +9,19 @@
 
 # Example and Demo
 --> Demo website - https://animeez.live <br>
---> Video - 
+--> Demo Video - 
 
-https://user-images.githubusercontent.com/77879772/163311540-1842f10e-298e-4f82-a6e2-908edce5f581.mp4
+
+[rec-tab (1).webm](https://user-images.githubusercontent.com/77879772/185559769-a22aad33-c1f2-45ec-8c02-00def16e9b4e.webm)
 
 
 
 # Notice 
 **We are not officially on any social media other than github** <br>
-**On 30 Stars i will start working on adding manga also**
 
 # This Time api project is in different repo
 
-# Things Used
+# Modules Used
 --> [Express](https://expressjs.com/en/starter/installing.html) for Website Framework. <br> 
 --> [Axios](https://axios-http.com/docs/intro) for Gogoanime requests. <br> 
 --> [Ejs/Html](https://ejs.co/#docs) for frontend. <br>  
