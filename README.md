@@ -26,7 +26,7 @@
 --> [Express](https://expressjs.com/en/starter/installing.html) for Website Framework. <br> 
 --> [Axios](https://axios-http.com/docs/intro) for Gogoanime requests. <br> 
 --> [Ejs/Html](https://ejs.co/#docs) for frontend. <br>  
---> [Quick.db](https://quickdb.js.org/) for saving animes (Homepage) and watch url of anime (Watching) to save time because the site was damn slow. <br>  <br> 
+--> [Quick.db](https://quickdb.js.org/) for saving animes (Homepage) <br>  <br> 
 
 # Requirements
 --> You can use any node version which is above 11.9. <br> 
