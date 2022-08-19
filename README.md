@@ -1,6 +1,6 @@
 # ANIMEEZ NEW UI V2 IS HERE
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
-** Template Used -- https://github.com/codewithsadee/filmlane
+** Template Used -- https://github.com/codewithsadee/filmlane**
 # Features?
 --> Its lightweight (after the anime details are set in db XD) <br>
 --> Uses api project to lower the weight on machine <br>
