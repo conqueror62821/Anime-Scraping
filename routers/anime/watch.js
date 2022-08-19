@@ -13,7 +13,7 @@ app.get("/:id", async(req, res) => {
 let resx = await axios.get(api_url +"api/watching/" + chek[0] + "/" + chek[1]);
   
   let info = await resx.data;
-  return res.render("watch.ejs", {info:info, chek: chek});
+  return res.render("watch.ejs", {info:info, api_url:api_url, chek: chek});
      } catch(e) {
     console.log(e);
     return res.send("<h1> 404 </h1>")
