@@ -19,22 +19,11 @@
 # Setup
 **API PROJECT SHOULD BE HOSTED IN DIFFERENT CMD OR ENVIRONMENT** <br>
 **API PROJECT URL -- [Click Here](https://github.com/dhvitOP/AnimeEZ-api)** <br>
-1. You have to edit the config.js's api_url by your api url. If your hosting both project locally than there isn't any need to change api_url. <br>
-```js
-module.exports = {
-  "api_url": "http://localhost:6969",
-  // Enter your api host's url or if hosting locally use http://localhost:6969
-  
-  "time_update": "200",
-  // Enter Seconds for updating recently added and popular list. For disabling it Enter disable
-  
-  "port": "8000", 
-    // Enter port for your website
-}
-```
-2. Make sure your api project is running properly. <br>
-3. Create a new command prompt and go in the directory of this repository's code. After that enter `npm start` and your website is ready to run. <br>
-
+1. Download the zip and extract it in any path you want. <br>
+2. Open a command prompt and go to the path in which you extracted the zip.<br>
+3. Enter `npm install` in the command prompt to install the required modules.<br>
+4. Make sure your api project is running properly. <br>
+5. Enter `npm start` in the command prompt and your website is ready to run. <br>
 
 
 # Notice 
