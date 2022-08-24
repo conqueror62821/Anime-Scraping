@@ -43,8 +43,7 @@
 
 
 
-# Setting Up 
---> You don't have to setup anything. <br>  <br> 
+
 
 # Running 
 Just click run if its repl otherwise type `node index.js` in console. <br> 
