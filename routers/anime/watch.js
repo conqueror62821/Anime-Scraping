@@ -10,7 +10,7 @@ app.get("/:id", async(req, res) => {
   }
   let chek = req.params.id.split("-episode-");
 
-let resx = await axios.get(api_url +"api/watching/" + chek[0] + "/" + chek[1]);
+let resx = await axios.get(api_url +"watch/" + chek[0] + "/" + chek[1]);
   
   let info = await resx.data;
   return res.render("watch.ejs", {info:info, api_url:api_url, chek: chek});
