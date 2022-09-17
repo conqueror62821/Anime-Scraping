@@ -23,7 +23,8 @@
 2. Open a command prompt and go to the path in which you extracted the zip.<br>
 3. Enter `npm install` in the command prompt to install the required modules.<br>
 4. Make sure your api project is running properly. <br>
-5. Enter `npm start` in the command prompt and your website is ready to run. <br>
+5. Make sure your config.js is properly configured. Check if the api_url matches your api project url. <br>
+6. Enter `npm start` in the command prompt and your website is ready to run. <br>
 
 
 # Notice 
