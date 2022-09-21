@@ -21,8 +21,8 @@ if(!secs.includes("disable")) {
 console.log("UPDATED POPULAR AND RECENTLY ADDED DATABASE");
   }
   return {
-    popular: res.data.results[0],
-    recent: resx.data.results[0],
+    popular: res.data.results,
+    recent: resx.data.results,
   }
      } catch(e) {
     console.log(e);
