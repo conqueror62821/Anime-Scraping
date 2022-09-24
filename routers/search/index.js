@@ -9,7 +9,7 @@ app.get("/", async(req, res) => {
   if(!keyw) {
     return res.redirect("/");
   }
-  let resx = await axios.get(api_url +"/api/search/" + keyw + "/1");
+  let resx = await axios.get(api_url +"api/search/" + keyw + "/1");
   
   if(resx.status === "404")
   {
