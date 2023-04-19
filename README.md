@@ -1,12 +1,13 @@
 # This Repo is deprecated and doesn't work anymore. I don't plan on updating it anymore. Reasons are simple :-
-** 1.This was created as a side project and didn't have much plans with it but still thank you for giving this project support** <br>
-** 2. The Reasons for shutting it down is simple, It's Illegal to pirate even if you are scraping from another website like gogoanime** <br>
-** 3. This project was supposed to be a personal website to watch anime for me and my friends thats why it had literally no ads** <br>
-** 4. As there were no ads we didnt had any income to keep up the servers and we aren't rich. ** <br>
-** In the end thanks for supporting this project and i know that it stopped working a long time ago but im shutting it down right now finally** <br>
-** The tutorial of installing and all other stuff will stay in this readme just in case some angel comes and plans on reviving this project** <br>
+**1.This was created as a side project and didn't have much plans with it but still thank you for giving this project support** <br>
+**2. The Reasons for shutting it down is simple, It's Illegal to pirate even if you are scraping from another website like gogoanime** <br>
+**3. This project was supposed to be a personal website to watch anime for me and my friends thats why it had literally no ads** <br>
+**4. As there were no ads we didnt had any income to keep up the servers and we aren't rich. ** <br>
+**In the end thanks for supporting this project and i know that it stopped working a long time ago but im shutting it down right now finally** <br>
 
-** I prefer you use other website like zoro.to or gogoanime but still you got ads **
+**The tutorial of installing and all other stuff will stay in this readme just in case some angel comes and plans on reviving this project** <br>
+
+**I prefer you use other website like zoro.to or gogoanime but still you got ads **
 
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
 **Template Used -- https://github.com/codewithsadee/filmlane** <br>
