@@ -11,7 +11,7 @@
 
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
 **Template Used -- https://github.com/codewithsadee/filmlane** <br>
-**API PROJECT URL -- [Click Here](https://github.com/dhvitOP/AnimeEZ-api)** <br>
+**API PROJECT URL -- [Click Here](https://github.com/john62821/Anime-Scraping)** <br>
 # Features?
 --> Its lightweight (after the anime details are set in db XD) <br>
 --> Uses api project to lower the weight on machine <br>
