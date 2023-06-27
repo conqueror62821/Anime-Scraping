@@ -28,7 +28,6 @@
 
 # Setup
 **API PROJECT SHOULD BE HOSTED IN DIFFERENT CMD OR ENVIRONMENT** <br>
-**API PROJECT URL -- [Click Here](https://github.com/dhvitOP/AnimeEZ-api)** <br>
 1. Download the zip and extract it in any path you want. <br>
 2. Open a command prompt and go to the path in which you extracted the zip.<br>
 3. Enter `npm install` in the command prompt to install the required modules.<br>
